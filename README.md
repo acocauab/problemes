@@ -1,4 +1,4 @@
-classe 03 problemes
+Problemes FE
 ===================
 
 Universitat Autonoma de Barcelona
@@ -8,8 +8,8 @@ Com funciona aquest repositori?
 -------------------------------
 
 * Cada problema tindrà una branca.
-* La nomenclatura de les branques serà: p<num_prob> problema 15 -> p15
-* Cada problema estarà escrit en un fitxer diferent seguint la mateixa nomenclatura que les branques p<num_prob>.sh
+* La nomenclatura de les branques serà: class<class_num>p<prob_num> classe 2 problema 15 -> class02p15
+* Cada problema estarà escrit en un fitxer anomenat exercici.sh 
 * Cada problema(branca) pot tenir 1 o mes commits amb diferents versions
 * La branca master nomes tindra aquest README.md
 
